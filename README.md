@@ -2,7 +2,7 @@
 
 Support Vector Regression (SVR) is a machine learning algorithm used for regression tasks, particularly when dealing with continuous target variables. It is an extension of Support Vector Machines (SVM), which are primarily designed for classification. SVR is particularly useful when the relationship between the input variables and the output variable is complex and nonlinear.
 
-Key Concepts:
+## Key Concepts:
 
 Linear Regression vs. Support Vector Regression:
 
