@@ -8,6 +8,7 @@ Linear Regression vs. Support Vector Regression:
 While linear regression aims to find a linear relationship between input features and output, SVR focuses on finding a hyperplane that best represents the data with a specified margin, allowing for more flexibility in capturing nonlinear relationships.
 
 Kernel in SVR:
+---
 A kernel is a crucial component of SVR that allows it to handle nonlinear relationships effectively. Kernels are functions that transform the input features into a higher-dimensional space, making it possible to find a hyperplane in that space. Common kernels include Linear, Polynomial, and Radial Basis Function (RBF or Gaussian) kernels.
 
 Purpose of Kernel:
