@@ -4,7 +4,7 @@ Support Vector Regression (SVR) is a machine learning algorithm used for regress
 
 ## Key Concepts:
 
-###Linear Regression vs. Support Vector Regression:
+### Linear Regression vs. Support Vector Regression:
 While linear regression aims to find a linear relationship between input features and output, SVR focuses on finding a hyperplane that best represents the data with a specified margin, allowing for more flexibility in capturing nonlinear relationships.
 
 ### Kernel in SVR:
