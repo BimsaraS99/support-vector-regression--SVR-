@@ -13,8 +13,8 @@ A kernel is a crucial component of SVR that allows it to handle nonlinear relati
 Purpose of Kernel:
 
 The purpose of using a kernel in SVR is to transform the input features into a space where a linear relationship can be effectively established. Kernels allow SVR to capture complex patterns and nonlinearities in the data, making the algorithm more versatile in various applications.
-Kernel Functions:
 
+## Kernel Functions:
 Different kernel functions serve different purposes.
 
 Linear Kernel: Suitable for linear relationships.
