@@ -17,10 +17,13 @@ The purpose of using a kernel in SVR is to transform the input features into a s
 Different kernel functions serve different purposes.
 
 ### Linear Kernel: 
+
 Suitable for linear relationships.
 ### Polynomial Kernel: 
+
 Useful for capturing polynomial relationships of higher degree.
 ### RBF (Radial Basis Function) Kernel: 
+
 Effective for capturing nonlinear patterns, especially when the relationship between variables is not easily defined by a polynomial.
 
 ### Support Vectors:
