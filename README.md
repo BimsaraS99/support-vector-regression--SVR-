@@ -1,1 +1,1 @@
-# support-vector-regression--SVR-
+# support-vector-regression (SVR)
